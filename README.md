@@ -1,3 +1,3 @@
 # message-preview
 
-Hello
+git clone https://github.com/pixeltopic/previewer.git
